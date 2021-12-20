@@ -22,4 +22,9 @@
     "files.associations": {
         "*.log.*": "log"
     },
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#033433",
+        "titleBar.activeBackground": "#044847",
+        "titleBar.activeForeground": "#E8FEFD"
+    },
 }
